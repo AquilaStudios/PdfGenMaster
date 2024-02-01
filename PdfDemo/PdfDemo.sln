@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfDemo", "PdfDemo\PdfDemo.csproj", "{97E776C2-AF5E-44AD-8309-F6E9D745C47D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfApp", "..\PdfApp\PdfApp.csproj", "{495BA9F3-3E51-4B69-8D05-55A7620BA8FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontResolver", "..\FontResolver\FontResolver.csproj", "{767E0E03-3FC3-412C-97FD-9A36278CD57A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97E776C2-AF5E-44AD-8309-F6E9D745C47D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E776C2-AF5E-44AD-8309-F6E9D745C47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E776C2-AF5E-44AD-8309-F6E9D745C47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E776C2-AF5E-44AD-8309-F6E9D745C47D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495BA9F3-3E51-4B69-8D05-55A7620BA8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495BA9F3-3E51-4B69-8D05-55A7620BA8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495BA9F3-3E51-4B69-8D05-55A7620BA8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495BA9F3-3E51-4B69-8D05-55A7620BA8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767E0E03-3FC3-412C-97FD-9A36278CD57A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767E0E03-3FC3-412C-97FD-9A36278CD57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767E0E03-3FC3-412C-97FD-9A36278CD57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767E0E03-3FC3-412C-97FD-9A36278CD57A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A594BA2-7B62-47A0-AAC6-688A694C1D3C}
+	EndGlobalSection
+EndGlobal
